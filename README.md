@@ -15,4 +15,4 @@ Run the python code
  
     python ny_taxi.py
 
-This will print the data set and generate image files for plotting the diagrams.
+This will print the data set and generate image files for plotting the data to diagram.
